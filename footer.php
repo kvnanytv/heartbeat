@@ -11,6 +11,12 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="assets/js/jquery.js"></script> 
 <script src="dist/js/bootstrap.min.js"></script>
+<script src="js/sandbox.js"></script>
+<script src="js/sandbox1.js"></script>
+<script>
+	new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'trigger' ) );
+</script>
+
 
 <script type="text/javascript">
 	$('a#explore').click(function(){
