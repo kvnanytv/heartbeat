@@ -22,8 +22,9 @@
 		
 		<!-- Jquery -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script src="js/bootstrap/bootstrap.js"></script>
-		<script src="assets/js/jquery.js"></script>
+
+
+		
 	    
 	    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	    <!--[if lt IE 9]>

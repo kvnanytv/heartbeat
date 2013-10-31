@@ -8,10 +8,7 @@
 </footer>
 
 <!-- Javascript -->
-
-<script src="js/sandbox.js"></script>
-<script src="js/sandbox1.js"></script>
-
+<script src="js/bootstrap/bootstrap.min.js"></script>
 <script type="text/javascript">
 	$('a#explore').click(function(){
     $('html, body').animate({
