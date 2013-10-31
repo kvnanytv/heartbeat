@@ -86,7 +86,7 @@
 				<div class="ab-hb">
 				<div class="col-lg-6">
 					<div class="title">
-						<h1>Heart<span>beat</span> is still in the works.</h1>
+						<h1>Heart<span>beat</span> is in development.</h1>
 						<h2>Help us grow!</h2>
 						<a href="" class="btn btn-default btn-lg">Spread it!</a>
 					</div>					
@@ -108,9 +108,9 @@
 			</div>
 		</section>
 
-		<section id="slide5">
+<!-- 		<section id="slide5">
 			
-		</section>
+		</section> -->
 	</div>
 
 

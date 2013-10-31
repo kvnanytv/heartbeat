@@ -17,12 +17,13 @@
 		<link href="css/normalize.css" rel="stylesheet">
 
 		<!-- Fonts -->
-		<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,600,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700' rel='stylesheet' type='text/css'>
 		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 		
 		<!-- Jquery -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script src="js/bootstrap/bootstrap.min.js"></script>
+		<script src="js/bootstrap/bootstrap.js"></script>
+		<script src="assets/js/jquery.js"></script>
 	    
 	    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	    <!--[if lt IE 9]>
