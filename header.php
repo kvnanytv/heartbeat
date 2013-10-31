@@ -10,7 +10,7 @@
 		<title>Heartbeat | Home</title>
 
 		<!-- Bootstrap core CSS -->
-		<link href="dist/css/bootstrap.css" rel="stylesheet">
+		<link href="css/bootstrap/bootstrap.css" rel="stylesheet">
 
 		<!-- /CSS -->
 		<link href="css/layout.css" rel="stylesheet">
@@ -20,6 +20,9 @@
 		<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,600,700' rel='stylesheet' type='text/css'>
 		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 		
+		<!-- Jquery -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="js/bootstrap/bootstrap.min.js"></script>
 	    
 	    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	    <!--[if lt IE 9]>
