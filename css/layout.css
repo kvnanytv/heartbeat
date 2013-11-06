@@ -26,7 +26,6 @@ body ,h1, h2, h3, h4, h5, h6 {
   Navigation
    ========================================================================== */
 #main-nav .navbar {
-	min-height: 75px;
 	margin-bottom: 0 !important;
 }
 
@@ -50,7 +49,7 @@ body ,h1, h2, h3, h4, h5, h6 {
 }
 
 #main-nav .navbar-brand {
-	font-size: 30px;
+	font-size: 24px;
 	color: #fff !important;
 	text-shadow: 0px -1px 0px rgba(0, 0, 0, 1);
 	padding: 15px 15px !important;
@@ -70,23 +69,29 @@ body ,h1, h2, h3, h4, h5, h6 {
 }
 
 #main-nav .collapse > .navbar-form {
-	padding: 20px 10px !important;
+	padding-top: 15px !important;
 	margin: 0 !important;
 }
 
 #main-nav .collapse input.form-control {
 	min-width: 460px !important;
+	height: 30px !important;
 }
 
 #main-nav .navbar-text {
 	margin: 0 !important;
-	padding: 25px 0px !important;
+	padding-top: 15px !important;
 }
 
 #main-nav .navbar-link {
 	padding-left: 20px !important;
 	font-size: 18px;
 	color: #fff;
+}
+
+.nt-wrap {
+	height: 60px;
+	vertical-align: middle;
 }
 
 .in-srch {
@@ -213,6 +218,10 @@ body ,h1, h2, h3, h4, h5, h6 {
 	background: #db2020;
 	padding: 20px 0;
 }
+ 
+.feat > .body h1 {
+	color: #ffffff !important;
+}
 
 .feat > .body > .col-lg-4  {
 	text-align: center;
@@ -221,7 +230,7 @@ body ,h1, h2, h3, h4, h5, h6 {
 }
 
 
-.feat > .body > .col-lg-4 h1  {	
+.feat > .body > .col-lg-4 ah-hb .title .1  {	
 	color: #fff !important;
 }
 
@@ -229,7 +238,7 @@ body ,h1, h2, h3, h4, h5, h6 {
 
 #about {
 	margin: 0;
-	padding: 0;
+	navbarpadding: 0;
 }
 
 .ab-hb .title {
@@ -237,10 +246,16 @@ body ,h1, h2, h3, h4, h5, h6 {
 }
 
 .ab-hb .title h1 {
-	font-size: 72px;
-	font-weight: 400;
+	font-size: 4em;
+	font-weight,: 400;
 	margin: 0 !important;
 	
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+	.ab-hb .title h1 {
+		font-size: 2.8em;
+	}
 }
 
 .ab-hb .title h2 {
@@ -276,6 +291,7 @@ body ,h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 .stage {
+	display: none;
     position: relative;
     padding-top: 5em;
     left: 0px;
@@ -345,7 +361,8 @@ body ,h1, h2, h3, h4, h5, h6 {
 footer {
 	background: #2c2a2a;
 	padding: 20px 15px ;
-	height: 50px;	
+	vertical-align: middle;
+	/*height: 50px;	*/
 }
 
 footer img {

@@ -74,7 +74,7 @@
 */
 
 .sb-nav {
-  position: absolute;
+  /*position: absolute;*/
   list-style: none;
   width: 100%;
   margin: 0;

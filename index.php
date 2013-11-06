@@ -60,59 +60,59 @@
 								<i class="fa fa-youtube-play fa-6x"></i>
 								<h1>Watch</h1>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua.</p>
-							</div>
-							<div class="col-lg-4">
-								<i class="fa fa-level-up fa-6x"></i>
-								<h1>Rank</h1>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua.</p>								
-							</div>
-							<div class="col-lg-4">
-								<i class="fa fa-group fa-6x"></i>
-								<h1>Connect</h1>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua.</p>
+									tempor incididunt ut labore et dolore magna aliqua.</p>
+								</div>
+								<div class="col-lg-4">
+									<i class="fa fa-level-up fa-6x"></i>
+									<h1>Rank</h1>
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+										tempor incididunt ut labore et dolore magna aliqua.</p>								
+									</div>
+									<div class="col-lg-4">
+										<i class="fa fa-group fa-6x"></i>
+										<h1>Connect</h1>
+										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+											tempor incididunt ut labore et dolore magna aliqua.</p>
+										</div>
+									</div>
+								</div>
 							</div>
 						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+					</section>
 
-		<section id="about">
-			<div class="container">
-				<div class="row">
-				<div class="ab-hb">
-				<div class="col-lg-6">
-					<div class="title">
-						<h1>Heart<span>beat</span> is in development.</h1>
-						<h2>Help us grow!</h2>
-						<a href="" class="btn btn-default btn-lg">Spread it!</a>
-					</div>					
-				</div>
-				<div class="col-lg-6">
-					<div class="body">
-					  <div class="stage">
-					  <div class="circle"></div>
-					    <div class="heart">
-					      <div class="left"></div>
-					      <div class="right"></div>
-					    </div>  
-					</div>							
-					</div>					
-				</div>
+					<section id="about">
+						<div class="container">
+							<div class="row">
+								<div class="ab-hb">
+									<div class="col-lg-6">
+										<div class="title">
+											<h1>Heart<span>beat</span> is in development.</h1>
+											<h2>Help us grow!</h2>
+											<a href="" class="btn btn-default btn-lg">Spread it!</a>
+										</div>					
+									</div>
+									<div class="col-lg-6">
+										<div class="body">
+											<div class="stage">
+												<div class="circle"></div>
+												<div class="heart">
+													<div class="left"></div>
+													<div class="right"></div>
+												</div>  
+											</div>							
+										</div>					
+									</div>
 
-				</div>
-				</div>
-			</div>
-		</section>
+								</div>
+							</div>
+						</div>
+					</section>
 
 <!-- 		<section id="slide5">
 			
-		</section> -->
-	</div>
+</section> -->
+</div>
 
 
 
-	<?php include 'footer.php' ?>
+<?php include 'footer.php' ?>
